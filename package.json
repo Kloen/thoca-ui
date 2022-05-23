@@ -2,7 +2,7 @@
   "name": "thoka-ui",
   "version": "0.0.1",
   "description": "Vue3 Components libray used on my personal projects",
-  "homepage":"https://github.com/Kloen/thoca-ui",
+  "homepage":"https://github.com/Kloen/thoka-ui",
   "main": "dist/library.js",
   "module": "dist/library.mjs",
   "files": [
