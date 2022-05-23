@@ -1,7 +1,8 @@
 {
   "name": "thoca-ui",
   "version": "0.0.1",
-  "description": "",
+  "description": "Vue3 Components libray used on my personal projects",
+  "homepage":"https://github.com/Kloen/thoca-ui",
   "main": "dist/library.js",
   "module": "dist/library.mjs",
   "files": [
@@ -14,7 +15,7 @@
     "build": "rollup -c"
   },
   "keywords": [],
-  "author": "Klöen Lansfiel",
+  "author": "Klöen Lansfiel <kloen@kloenlansfiel.com> (https://kloenlansfiel.com)",
   "license": "MIT",
   "devDependencies": {
     "rollup": "^2.74.1",
