@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.0.3
+- Re-release due to missing elements.
+
 ## 0.0.2
 
 #### Added:
