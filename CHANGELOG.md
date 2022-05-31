@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.0
+- Convert to TypeScript library
+
 ## 0.0.3
 - Re-release due to missing elements.
 
