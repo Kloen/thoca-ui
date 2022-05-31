@@ -7,6 +7,6 @@
 
 <script lang="ts">
 export default {
-  name: "TIconPatreon"
+  name: "IconPatreon"
 }
 </script>

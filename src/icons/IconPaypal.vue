@@ -7,6 +7,6 @@
 
 <script lang="ts">
 export default {
-  name: "TIconPaypal"
+  name: "IconPaypal"
 }
 </script>
