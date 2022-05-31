@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.2.0
+- Add Dark Mode Toggle component
+
 ## 0.1.0
 - Convert to TypeScript library
 

@@ -5,15 +5,17 @@ import IconGithub from "@/lib-components/icons/IconGithub.vue";
 import IconPatreon from "@/lib-components/icons/IconPatreon.vue";
 import IconPaypal from "@/lib-components/icons/IconPaypal.vue";
 import IconTwitter from "@/lib-components/icons/IconTwitter.vue";
+import DarkModeToggle from "@/lib-components/components/DarkModeToggle.vue";
 
 export default defineComponent({
   name: 'ServeDev',
-  components: {IconTwitter, IconPaypal, IconPatreon, IconGithub, IconDiscord},
+  components: {DarkModeToggle, IconTwitter, IconPaypal, IconPatreon, IconGithub, IconDiscord},
 });
 </script>
 
 <template>
   <div id="app">
+    <dark-mode-toggle />
     <icon-discord />
     <icon-github />
     <icon-patreon />
