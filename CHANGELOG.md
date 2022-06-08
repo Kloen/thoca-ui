@@ -2,6 +2,8 @@
 
 ## WIP
 - Use Vite as development preview
+- Add FormInput
+- Add FormTextArea
 
 ## 0.2.0
 - Add Dark Mode Toggle component
