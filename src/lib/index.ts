@@ -1,6 +1,9 @@
 /* eslint-disable import/prefer-default-export */
 export { default as DarkModeToggle } from './components/DarkModeToggle.vue';
 
+export { default as FormInput } from './forms/FormInput.vue';
+export { default as FormTextArea } from './forms/FormTextArea.vue';
+
 export { default as IconDiscord } from './icons/IconDiscord.vue';
 export { default as IconGithub } from './icons/IconGithub.vue';
 export { default as IconPatreon } from './icons/IconPatreon.vue';
