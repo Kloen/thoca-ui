@@ -1,5 +1,8 @@
 # Changelog
 
+## WIP
+- Use Vite as development preview
+
 ## 0.2.0
 - Add Dark Mode Toggle component
 

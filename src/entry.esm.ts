@@ -1,7 +1,7 @@
 import { App, Plugin } from 'vue';
 
 // Import vue components
-import * as components from '@/lib-components/index';
+import * as components from '@/lib/index';
 
 // install function executed by Vue.use()
 const install: Exclude<Plugin['install'], undefined> = function installThokaUi(app: App) {
@@ -15,4 +15,4 @@ export default install;
 
 // To allow individual component use, export components
 // each can be registered via Vue.component()
-export * from '@/lib-components/index';
+export * from '@/lib/index';
